@@ -96,6 +96,13 @@ nav ul li a {
   border-radius: 10px;
 }
 
+.contact{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 footer {
   background-color: #333;
   color: #fff;
